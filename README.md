@@ -13,4 +13,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Alessio-Daniel&theme=transparent" alt="Anurag's GitHub stats" />
   </a>
 </div>
-<div>(https://github.com/Alessio-Daniel/Alessio-Daniel/blob/output/github-contribution-grid-snake.svg)</div>
+<div align="center">
+  (https://github.com/Alessio-Daniel/Alessio-Daniel/blob/output/github-contribution-grid-snake.svg)
+</div>
