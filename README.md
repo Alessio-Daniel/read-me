@@ -10,5 +10,5 @@
 * ❤️ I love ...
 * ⚡ Fun fact: ...
 <p align="center">
-  <img src="https://media.tenor.com/Bn8sxwFw-F4AAAAi/catjam-cat.gif"/>
+  <img src="https://media.tenor.com/Bn8sxwFw-F4AAAAi/catjam-cat.gif" width=100p height=100p/>
 </p>
