@@ -1,4 +1,4 @@
-<head font="Monocraft">
+<head style="font-family: 'Times New Roman', serif;">
   <p align="center">Welcome to my profile</p>
 </head>
 <p align="center">
