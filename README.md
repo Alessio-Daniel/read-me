@@ -1,4 +1,4 @@
-<head font="Mulish">
+<head font="Monocraft">
   <p align="center">Welcome to my profile</p>
 </head>
 <p align="center">
