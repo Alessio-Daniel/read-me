@@ -10,5 +10,5 @@
 * ❤️ I love ...
 * ⚡ Fun fact: ...
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://media.tenor.com/Bn8sxwFw-F4AAAAi/catjam-cat.gif"/>
 </p>
