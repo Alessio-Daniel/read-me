@@ -9,5 +9,5 @@
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
  </p>
 <div align="center">
-  (https://github-readme-stats.vercel.app/api?username=Alessio-Daniel)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alessio-Daniel)
 </div>
