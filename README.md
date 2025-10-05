@@ -14,6 +14,7 @@
   </a>
 </div>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alessio-Daniel/Alessio-Daniel/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Alessio-Daniel/Alessio-Daniel/output/github-contribution-grid-snake.svg?v=303be76" alt="snake animation" />
 </p>
+
 
