@@ -8,4 +8,6 @@
    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
  </p>
-<img align="center" source="(https://github-readme-stats.vercel.app/api?username=Alessio-Daniel)"/>
+<div align="center">
+  https://github-readme-stats.vercel.app/api?username=Alessio-Daniel
+</div>
